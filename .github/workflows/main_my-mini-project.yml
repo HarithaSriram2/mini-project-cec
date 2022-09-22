@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'my-mini-project'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D53472845D2C441EB3000EAAB39C2BD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E99965B9C4594F7F88F0BEF476A16428 }}
           package: .
